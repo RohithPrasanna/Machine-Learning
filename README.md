@@ -21,7 +21,7 @@ This repository contains real world projects implemented using popular supervise
 - A Loan Default Predictor model using Machine Learning
 - A machine learning model to predict the presence or absence of Kyphosis medical condition using Decision Trees and RFC
 - Iris flower subspecies classifier using SVM
-- University Rank Predictor using K Means Clustering
+- University Type Predictor using K Means Clustering
 - NLP model to classify Yelp reviews
 - A Spam filter for social media (NLP and Spark Streaming)
 
