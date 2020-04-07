@@ -12,7 +12,7 @@ This repository contains real world projects implemented using popular supervise
 - Apache Spark
 - Anaconda
 
-# List of Projects
+# List of Models 
 - Crew personnel requirement estimation for a Merchant Ship using Machine Learning
 - House Price prediction using Linear Regression
 - A predictive model for an Ecommerce company to decide whether to focus their efforts on their mobile app experience or their website
@@ -25,4 +25,10 @@ This repository contains real world projects implemented using popular supervise
 - NLP model to classify Yelp reviews
 - A Spam filter for social media (NLP and Spark Streaming)
 
+# Data Source
+- [Kaggle](https://www.kaggle.com/)
+- [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
 
+# Licesne and Copyright
+  Copyright © 2020 RohithPrasanna <br />
+  Licensed under the [MIT License](LICENSE)
