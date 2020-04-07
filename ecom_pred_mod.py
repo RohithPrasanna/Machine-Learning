@@ -44,3 +44,4 @@ RMSE = np.sqrt(MSE)
 print('Mean Absolute Error = {}'.format(MAE))
 print('Mean Squared Error = {}'.format(MSE))
 print('Root Mean Squared Error = {}'.format(RMSE))
+
