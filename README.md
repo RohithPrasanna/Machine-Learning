@@ -28,6 +28,7 @@ This repository contains real world projects implemented using popular supervise
 # Data Source
 - [Kaggle](https://www.kaggle.com/)
 - [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
+- Custom datasets
 
 # Licesne and Copyright
   Copyright © 2020 RohithPrasanna <br />
